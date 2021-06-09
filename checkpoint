@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\chatbot\\nmt-chatbot\\model\\translate.ckpt-9000"
+all_model_checkpoint_paths: "D:\\chatbot\\nmt-chatbot\\model\\translate.ckpt-6000"
+all_model_checkpoint_paths: "D:\\chatbot\\nmt-chatbot\\model\\translate.ckpt-7000"
+all_model_checkpoint_paths: "D:\\chatbot\\nmt-chatbot\\model\\translate.ckpt-8000"
+all_model_checkpoint_paths: "D:\\chatbot\\nmt-chatbot\\model\\translate.ckpt-9000"
+all_model_checkpoint_paths: "D:\\chatbot\\nmt-chatbot\\model\\translate.ckpt-10000"
